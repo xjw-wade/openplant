@@ -1,0 +1,772 @@
+2022-12-17 13:17:50,008-op1.py[line:253]-WARNING:点组释放成功
+2022-12-17 13:20:55,006-op1.py[line:253]-WARNING:点组释放成功
+2022-12-17 13:42:05,006-op1.py[line:253]-WARNING:点组释放成功
+2022-12-17 14:16:32,957-op1.py[line:310]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:33,240-op1.py[line:387]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:33,240-op1.py[line:310]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:33,257-op1.py[line:310]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:33,280-op1.py[line:310]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:33,294-op1.py[line:310]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:33,306-op1.py[line:310]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:33,320-op1.py[line:310]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:33,345-op1.py[line:310]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:33,372-op1.py[line:323]-WARNING:关闭连接成功
+2022-12-17 14:16:34,920-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:16:35,341-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:16:36,344-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:16:37,505-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:16:49,477-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:49,761-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:49,770-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:49,795-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:49,810-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:49,838-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:49,848-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:50,501-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:16:50,581-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:50,861-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:50,884-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:50,893-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:16:52,330-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:16:52,791-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:16:53,847-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:16:54,501-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:17:29,990-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:17:30,267-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:17:30,311-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:17:32,149-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:17:32,550-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:17:33,677-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:17:34,502-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:17:56,197-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:17:56,467-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:18:00,970-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:18:01,373-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:18:02,338-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:18:03,502-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:18:29,995-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:18:30,270-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:18:30,340-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:18:36,691-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:18:37,084-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:18:38,072-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:18:39,501-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:19:01,907-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:19:02,180-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:19:02,227-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:19:09,278-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:19:09,671-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:19:10,570-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:19:11,502-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:20:12,938-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:15,089-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:20:15,485-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:20:16,522-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:20:17,501-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:20:22,949-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:23,257-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:23,298-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:23,334-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:23,347-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:23,372-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:23,759-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:20:24,146-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:24,378-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:24,417-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:24,417-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:24,453-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:26,415-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:20:26,804-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:20:27,718-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:20:28,379-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:28,577-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:20:43,018-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:20:43,435-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:20:44,419-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:20:45,502-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:21:45,358-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:21:45,662-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:21:47,857-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:21:48,263-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:21:49,227-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:21:50,503-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:22:01,593-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:22:01,864-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:22:01,877-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:22:01,935-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:22:23,819-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:22:24,232-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:22:25,246-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:22:36,491-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:22:43,762-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:22:44,167-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:22:45,293-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:22:46,501-op1.py[line:190]-WARNING:Time out
+2022-12-17 14:23:11,553-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:23:11,826-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:23:13,922-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:23:14,704-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:23:15,682-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 14:23:44,137-op1.py[line:389]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 14:23:44,140-op1.py[line:325]-WARNING:关闭连接成功
+2022-12-17 14:23:49,429-op1.py[line:412]-WARNING:读取标签成功,数量为6951
+2022-12-17 14:23:50,260-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 14:23:51,202-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 15:03:38,123-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:39,087-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:40,140-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:41,251-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:42,181-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:43,071-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:44,097-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:45,116-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:46,162-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:47,136-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:48,166-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:49,113-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:50,148-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:51,084-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:52,098-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:53,107-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:54,107-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:55,111-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:56,085-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:57,140-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:58,125-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:03:59,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:00,123-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:01,084-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:02,143-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:03,144-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:04,125-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:05,077-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:06,081-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:07,089-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:08,085-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:09,074-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:10,109-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:11,084-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:12,074-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:13,080-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:14,102-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:15,073-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:16,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:17,063-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:18,101-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:19,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:20,069-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:21,071-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:22,077-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:23,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:24,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:25,071-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:26,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:27,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:28,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:29,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:30,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:31,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:32,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:33,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:34,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:35,077-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:36,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:37,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:38,075-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:39,066-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:40,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:41,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:42,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:43,080-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:44,076-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:45,075-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:46,079-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:47,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:48,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:49,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:50,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:51,074-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:52,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:53,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:54,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:55,064-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:56,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:57,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:58,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:04:59,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:00,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:01,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:02,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:03,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:04,083-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:05,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:06,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:07,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:08,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:09,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:10,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:11,072-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:12,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:13,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:14,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:15,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:16,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:17,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:18,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:19,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:20,045-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:21,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:22,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:23,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:24,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:25,079-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:26,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:27,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:28,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:29,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:30,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:31,077-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:32,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:33,081-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:34,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:35,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:36,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:37,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:38,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:39,074-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:40,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:41,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:42,045-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:43,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:44,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:45,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:46,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:47,077-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:48,065-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:49,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:50,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:51,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:52,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:53,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:54,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:55,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:56,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:57,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:58,063-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:05:59,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:00,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:01,074-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:02,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:03,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:04,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:05,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:06,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:07,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:08,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:09,072-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:10,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:11,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:12,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:13,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:14,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:15,076-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:16,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:17,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:18,075-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:19,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:20,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:21,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:22,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:23,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:24,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:25,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:26,076-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:27,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:28,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:29,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:30,076-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:31,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:32,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:33,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:34,065-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:35,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:36,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:37,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:38,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:39,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:40,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:41,064-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:42,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:43,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:44,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:45,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:46,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:47,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:48,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:49,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:50,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:51,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:52,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:53,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:54,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:55,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:56,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:57,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:58,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:06:59,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:00,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:01,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:02,077-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:03,077-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:04,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:05,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:06,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:07,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:08,080-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:09,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:10,066-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:11,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:12,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:13,077-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:14,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:15,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:16,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:17,045-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:18,079-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:19,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:20,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:21,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:22,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:23,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:24,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:25,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:26,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:27,070-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:28,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:29,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:30,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:31,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:32,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:33,080-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:34,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:35,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:36,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:37,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:38,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:39,081-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:40,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:41,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:42,077-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:43,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:44,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:45,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:46,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:47,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:48,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:49,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:50,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:51,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:52,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:53,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:54,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:55,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:56,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:57,066-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:58,063-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:07:59,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:00,076-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:01,076-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:02,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:03,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:04,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:05,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:06,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:07,065-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:08,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:09,065-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:10,076-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:11,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:12,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:13,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:14,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:15,074-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:16,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:17,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:18,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:19,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:20,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:21,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:22,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:23,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:24,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:25,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:26,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:27,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:28,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:29,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:30,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:31,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:32,065-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:33,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:34,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:35,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:36,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:37,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:38,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:39,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:40,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:41,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:42,066-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:43,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:44,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:45,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:46,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:47,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:48,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:49,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:50,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:51,063-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:52,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:53,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:54,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:55,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:56,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:57,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:58,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:08:59,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:00,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:01,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:02,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:03,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:04,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:05,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:06,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:07,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:08,065-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:09,045-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:10,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:11,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:12,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:13,045-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:14,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:15,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:16,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:17,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:18,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:19,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:20,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:21,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:22,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:23,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:24,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:25,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:26,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:27,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:28,076-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:29,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:30,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:31,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:32,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:33,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:34,070-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:35,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:36,080-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:37,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:38,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:39,065-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:40,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:41,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:42,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:43,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:44,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:45,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:46,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:47,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:48,065-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:49,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:50,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:51,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:52,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:53,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:54,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:55,045-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:56,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:57,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:58,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:09:59,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:00,071-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:01,073-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:02,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:03,006-op1.py[line:253]-WARNING:点组释放成功
+2022-12-17 15:10:03,988-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:04,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:05,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:06,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:07,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:08,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:09,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:10,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:11,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:12,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:13,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:14,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:15,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:16,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:17,066-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:18,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:19,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:20,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:21,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:22,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:23,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:24,045-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:25,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:26,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:27,074-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:28,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:29,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:30,066-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:31,086-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:32,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:33,067-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:34,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:35,079-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:36,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:37,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:38,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:39,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:40,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:41,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:42,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:43,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:44,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:45,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:46,066-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:47,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:48,063-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:49,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:50,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:51,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:52,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:53,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:54,063-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:55,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:56,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:57,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:58,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:10:59,072-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:00,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:01,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:02,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:03,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:04,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:05,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:06,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:07,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:08,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:09,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:10,077-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:11,064-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:12,061-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:13,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:14,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:15,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:16,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:17,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:18,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:19,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:20,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:21,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:22,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:23,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:24,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:25,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:26,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:27,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:28,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:29,069-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:30,063-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:31,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:32,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:33,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:34,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:35,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:36,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:37,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:38,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:39,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:40,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:41,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:42,076-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:43,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:44,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:45,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:46,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:47,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:48,059-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:49,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:50,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:51,064-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:52,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:53,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:54,063-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:55,070-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:56,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:57,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:58,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:11:59,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:00,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:01,086-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:02,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:03,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:04,075-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:05,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:06,066-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:07,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:08,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:09,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:10,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:11,067-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:12,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:13,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:14,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:15,073-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:16,048-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:17,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:18,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:19,057-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:20,060-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:21,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:22,063-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:23,063-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:24,068-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:25,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:26,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:27,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:28,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:29,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:30,051-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:31,062-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:32,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:33,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:34,050-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:35,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:36,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:37,064-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:38,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:39,055-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:40,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:41,078-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:42,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:43,052-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:44,067-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:45,049-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:46,053-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:47,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:48,065-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:49,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:50,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:51,058-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:52,056-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:53,054-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:54,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:55,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:56,046-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:57,047-op1.py[line:289]-WARNING:read real time data failed
+2022-12-17 15:12:57,281-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:12:57,559-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:12:57,595-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:12:57,638-op1.py[line:325]-WARNING:关闭连接成功
+2022-12-17 15:12:59,369-op1.py[line:412]-WARNING:读取标签成功,数量为6952
+2022-12-17 15:13:00,189-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 15:13:01,259-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 15:18:33,012-op1.py[line:253]-WARNING:点组释放成功
+2022-12-17 15:18:43,006-op1.py[line:253]-WARNING:点组释放成功
+2022-12-17 15:18:54,008-op1.py[line:253]-WARNING:点组释放成功
+2022-12-17 15:21:09,006-op1.py[line:253]-WARNING:点组释放成功
+2022-12-17 15:21:47,007-op1.py[line:253]-WARNING:点组释放成功
+2022-12-17 15:23:15,022-op1.py[line:413]-WARNING:读取标签成功,数量为6957
+2022-12-17 15:23:15,811-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 15:23:16,778-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 15:23:24,305-op1.py[line:390]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:23:24,305-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:23:24,545-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:23:24,546-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:23:24,580-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:23:24,627-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:23:25,322-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:23:25,322-op1.py[line:390]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:23:47,378-op1.py[line:414]-WARNING:读取标签成功,数量为6957
+2022-12-17 15:23:48,171-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 15:23:49,268-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 15:23:54,286-op1.py[line:391]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:23:54,286-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:24:39,726-op1.py[line:417]-WARNING:读取标签成功,数量为6957
+2022-12-17 15:25:07,898-op1.py[line:414]-WARNING:读取标签成功,数量为6957
+2022-12-17 15:25:08,647-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 15:25:09,703-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 15:25:23,252-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:25:23,291-op1.py[line:391]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:25:23,505-op1.py[line:325]-WARNING:关闭连接成功
+2022-12-17 15:26:02,334-op1.py[line:415]-WARNING:读取标签成功,数量为6957
+2022-12-17 15:26:03,107-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 15:26:04,077-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 15:26:08,520-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:09,337-op1.py[line:392]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:09,337-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:09,617-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:09,629-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:09,677-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:09,694-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:09,711-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:09,760-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:10,247-op1.py[line:392]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:10,247-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:10,522-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:10,561-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:10,596-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:10,596-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:26:10,636-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:27:29,135-op1.py[line:416]-WARNING:读取标签成功,数量为6957
+2022-12-17 15:27:29,887-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 15:27:30,937-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 15:27:42,972-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:27:43,245-op1.py[line:393]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:27:43,245-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:27:43,318-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:07,500-op1.py[line:416]-WARNING:读取标签成功,数量为6957
+2022-12-17 15:29:08,266-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 15:29:09,431-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 15:29:13,707-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:13,988-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:14,061-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:45,344-op1.py[line:416]-WARNING:读取标签成功,数量为6957
+2022-12-17 15:29:46,090-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 15:29:47,044-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 15:29:50,848-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,126-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,126-op1.py[line:393]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,129-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,161-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,161-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,198-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,198-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,215-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,271-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,272-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,272-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:29:51,293-op1.py[line:325]-WARNING:关闭连接成功
+2022-12-17 15:30:19,129-op1.py[line:389]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:30:19,129-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:30:19,405-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:30:19,477-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 15:30:19,483-op1.py[line:325]-WARNING:关闭连接成功
+2022-12-17 15:30:21,082-op1.py[line:413]-WARNING:读取标签成功,数量为6957
+2022-12-17 15:30:21,843-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 15:30:22,804-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 15:30:34,681-op1.py[line:325]-WARNING:关闭连接成功
+2022-12-17 15:30:36,468-op1.py[line:412]-WARNING:读取标签成功,数量为6957
+2022-12-17 15:30:37,208-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-17 15:30:38,207-op1.py[line:169]-WARNING:添加点名成功
+2022-12-17 15:36:28,006-op1.py[line:253]-WARNING:点组释放成功
+2022-12-17 15:36:32,007-op1.py[line:253]-WARNING:点组释放成功

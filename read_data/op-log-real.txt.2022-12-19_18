@@ -1,0 +1,10 @@
+2022-12-19 18:35:56,007-op1.py[line:253]-WARNING:点组释放成功
+2022-12-19 18:53:47,149-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-19 18:53:57,667-op1.py[line:412]-WARNING:读取标签成功,数量为6983
+2022-12-19 18:53:58,411-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-19 18:53:59,648-op1.py[line:169]-WARNING:添加点名成功
+2022-12-19 18:56:05,284-op1.py[line:312]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-19 18:56:47,812-op1.py[line:412]-WARNING:读取标签成功,数量为6983
+2022-12-19 18:56:48,562-op1.py[line:152]-WARNING:连接对象创建成功
+2022-12-19 18:56:49,570-op1.py[line:169]-WARNING:添加点名成功
+2022-12-19 19:45:08,010-op1.py[line:253]-WARNING:点组释放成功

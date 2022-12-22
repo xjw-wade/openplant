@@ -1,0 +1,25 @@
+2022-12-19 13:03:41,592-op5.py[line:203]-WARNING:读取点名列表成功,数量为6
+2022-12-19 13:03:42,447-op5.py[line:76]-WARNING:连接对象创建成功
+2022-12-19 13:03:42,447-op5.py[line:76]-WARNING:连接对象创建成功
+2022-12-19 13:03:42,450-op5.py[line:93]-WARNING:添加点名成功
+2022-12-19 13:03:42,450-op5.py[line:93]-WARNING:添加点名成功
+2022-12-19 13:03:42,450-op5.py[line:123]-WARNING:2022-11-03 00:00:00
+2022-12-19 13:03:42,451-op5.py[line:123]-WARNING:2022-11-03 08:00:00
+2022-12-19 13:03:42,455-op5.py[line:76]-WARNING:连接对象创建成功
+2022-12-19 13:03:42,458-op5.py[line:93]-WARNING:添加点名成功
+2022-12-19 13:03:42,458-op5.py[line:123]-WARNING:2022-11-03 02:00:00
+2022-12-19 13:03:42,463-op5.py[line:76]-WARNING:连接对象创建成功
+2022-12-19 13:03:42,466-op5.py[line:93]-WARNING:添加点名成功
+2022-12-19 13:03:42,467-op5.py[line:123]-WARNING:2022-11-03 06:00:00
+2022-12-19 13:03:42,473-op5.py[line:76]-WARNING:连接对象创建成功
+2022-12-19 13:03:42,476-op5.py[line:93]-WARNING:添加点名成功
+2022-12-19 13:03:42,477-op5.py[line:123]-WARNING:2022-11-03 10:00:00
+2022-12-19 13:03:42,481-op5.py[line:76]-WARNING:连接对象创建成功
+2022-12-19 13:03:42,484-op5.py[line:93]-WARNING:添加点名成功
+2022-12-19 13:03:42,485-op5.py[line:123]-WARNING:2022-11-03 04:00:00
+2022-12-19 13:03:49,952-op5.py[line:175]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-19 13:03:49,953-op5.py[line:175]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-19 13:03:49,953-op5.py[line:175]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-19 13:03:49,952-op5.py[line:175]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-19 13:03:49,953-op5.py[line:175]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-19 13:03:49,953-op5.py[line:175]-WARNING:terminate() takes 1 positional argument but 3 were given

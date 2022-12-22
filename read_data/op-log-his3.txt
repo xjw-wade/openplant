@@ -1,0 +1,328 @@
+2022-12-17 11:01:13,970-op4.py[line:203]-WARNING:读取点名列表成功,数量为1
+2022-12-17 11:01:15,971-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:15,974-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:15,980-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:15,983-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:15,995-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:15,998-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,211-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,211-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,212-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,212-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,212-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,212-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,212-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,212-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,212-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,214-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,214-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,215-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,215-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,215-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,215-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,215-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,216-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,216-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,419-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,419-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,419-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,419-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,419-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,419-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,419-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,419-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,419-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,423-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,423-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,423-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,423-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,423-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,424-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,424-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,424-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,425-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,631-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,631-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,631-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,632-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,632-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,632-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,632-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,635-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,635-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,635-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,636-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,637-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,637-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,637-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,641-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,644-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,839-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,839-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,839-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,839-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,840-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,840-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:16,842-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,843-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,843-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,843-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,843-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:16,844-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,032-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,032-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,032-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,032-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,032-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,032-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,033-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,036-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,036-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,038-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,038-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,038-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,038-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,038-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,041-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,226-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,226-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,226-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,226-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,226-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,226-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,226-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,227-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,229-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,229-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,230-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,230-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,231-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,231-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,231-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,231-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,231-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,233-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,235-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,452-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,452-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,452-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,452-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,452-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,452-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,452-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,452-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,452-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,452-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,454-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,455-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,455-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,455-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,455-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,456-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,456-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,456-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,456-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,457-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,457-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,457-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,636-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,636-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,636-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,637-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,637-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,638-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,638-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,638-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,638-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,638-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,638-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,638-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,638-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,638-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,638-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,639-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,640-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,640-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,640-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,641-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,641-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,642-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,642-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,642-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,642-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,643-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,643-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,644-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,644-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,644-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,645-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,646-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,647-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,647-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,833-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,833-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,833-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,833-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,834-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,834-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,836-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,836-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:17,836-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,837-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,837-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,837-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,840-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:17,845-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:18,056-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:18,062-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:18,065-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:18,067-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,552-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,553-op4.py[line:174]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 11:01:32,561-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,562-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,562-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,562-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,562-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,563-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,563-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,563-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,563-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,564-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,564-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,564-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,564-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,564-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,564-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,564-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,564-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,564-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,564-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,564-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,565-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,565-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,565-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,565-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,565-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,565-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,565-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,565-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,566-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,566-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,566-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,566-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,566-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,566-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,566-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,588-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,588-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,590-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:32,590-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:41,674-op4.py[line:203]-WARNING:读取点名列表成功,数量为1
+2022-12-17 11:01:42,604-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:01:42,606-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:01:43,300-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:01:43,338-op4.py[line:249]-WARNING:1.496277093887329
+2022-12-17 11:03:55,387-op4.py[line:203]-WARNING:读取点名列表成功,数量为1
+2022-12-17 11:03:56,283-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:03:56,285-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:03:56,902-op4.py[line:174]-WARNING:name 'tm_tag6' is not defined
+2022-12-17 11:03:56,904-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:03:56,948-op4.py[line:249]-WARNING:1.4047026634216309
+2022-12-17 11:04:40,998-op4.py[line:203]-WARNING:读取点名列表成功,数量为1
+2022-12-17 11:04:41,895-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:04:41,898-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:04:42,677-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:04:42,716-op4.py[line:249]-WARNING:1.5689857006072998
+2022-12-17 11:18:22,844-op4.py[line:203]-WARNING:读取点名列表成功,数量为1
+2022-12-17 11:18:23,806-op4.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 11:18:23,808-op4.py[line:93]-WARNING:添加点名成功
+2022-12-17 11:18:24,642-op4.py[line:188]-WARNING:关闭连接成功
+2022-12-17 11:18:24,684-op4.py[line:249]-WARNING:1.6831119060516357

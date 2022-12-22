@@ -1,0 +1,6 @@
+2022-12-17 19:09:53,214-op5.py[line:189]-WARNING:关闭连接成功
+2022-12-17 19:09:53,960-op5.py[line:76]-WARNING:连接对象创建成功
+2022-12-17 19:09:54,900-op5.py[line:93]-WARNING:添加点名成功
+2022-12-17 19:09:54,901-op5.py[line:123]-WARNING:2022-12-07 16:00:00
+2022-12-17 19:14:34,862-op5.py[line:175]-WARNING:terminate() takes 1 positional argument but 3 were given
+2022-12-17 19:14:34,868-op5.py[line:189]-WARNING:关闭连接成功
